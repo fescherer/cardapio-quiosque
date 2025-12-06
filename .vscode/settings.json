@@ -1,0 +1,11 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "prettier.enable": false,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.css": "tailwindcss"}
+}
