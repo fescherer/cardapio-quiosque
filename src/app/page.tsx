@@ -1,5 +1,5 @@
 import CategorySection from './components/category-section';
-import menu from './data/data.json';
+import menu from '../data/db.json';
 
 export default function HomePage() {
   return (
