@@ -1,11 +1,12 @@
 {
     "drinks": [
-        { "name": "Espresso", "price": 3.5, "note": "" },
-        { "name": "Latte", "price": 4.5, "note": "Check availability" }
+        { "name": "Coco", "price": 11, "note": "" },
+        { "name": "Refrigerante Lata", "price": 7, "note": "Check availability" }
     ],
     "foods": [
-        { "name": "Croissant", "price": 2.5, "note": "" },
-        { "name": "Sandwich", "price": 5.0, "note": "" }
+        { "name": "Salgados Fritos", "price": 9, "note": "Coxinha Frango, frango com catupiry" },
+        { "name": "Salgados Assados", "price": 9, "note": "Hamburgão, Calabresa com cebola, Salgado de Pizza e Esfirra de Carne" },
+        { "name": "Pastel", "price": 12, "note": "" }
     ],
     "desserts": [
         { "name": "Cheesecake", "price": 4.0, "note": "" }

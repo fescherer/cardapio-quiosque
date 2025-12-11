@@ -12,8 +12,7 @@ export default function MenuItem({ name, price, note }: MenuItemProps) {
         {note && <p className="text-warning text-sm">{note}</p>}
       </div>
       <p className="font-bold">
-        $
-        {price.toFixed(2)}
+        {`R$ ` + price.toFixed(2)}
       </p>
     </div>
   );
